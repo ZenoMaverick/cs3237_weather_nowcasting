@@ -7,5 +7,5 @@ https://kendrik-wah.github.io/cs3237_weather_nowcasting/
 Visit our repositories:
 - Benjamin Chan (https://github.com/benchan911)
 - Wang Haozhe (https://github.com/HZWang96)
-- Zeno Maverick Low (https://github.com/Imadethisforsch)
+- Zeno Maverick Low (https://github.com/ZenoMaverick)
 - Kendrik Wah (https://github.com/kendrik-wah)
